@@ -41,7 +41,6 @@ Simplified system architecture and hardware design. Detailed hardware schematics
 Real-time monitoring of soil moisture and irrigation events using Grafana dashboards.
 
 <img width="800" height="800" alt="Dashboardbomba" src="https://github.com/user-attachments/assets/e7268f44-a4a2-4cbd-a78a-b532f5710108" />
-<img width="800" height="800" alt="Grafanasensores" src="https://github.com/user-attachments/assets/b41435f9-f250-4495-b731-147311f7838f" />
 <img width="800" height="800" alt="grafanabomba" src="https://github.com/user-attachments/assets/8288af93-57f2-400a-9498-63d5b67a90c0" />
 
 ## Technical Challenges 🧪
