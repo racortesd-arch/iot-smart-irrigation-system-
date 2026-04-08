@@ -22,7 +22,7 @@ ESP32-C3 → MQTT Broker → Backend (Python) → PostgreSQL → Grafana Dashboa
 - Solar-powered operation
 - Data storage and historical analysis
 - Remote visualization via dashboards
-- 
+  
 ##  System Design 🧠
 
 Simplified system architecture and hardware design. Detailed hardware schematics available upon request.
@@ -50,3 +50,9 @@ Real-time monitoring of soil moisture and irrigation events using Grafana dashbo
 - Power management using solar energy
 - Sensor calibration and accuracy
 - System stability in real-world conditions
+
+## Impact 🚀
+
+- Autonomous irrigation system with minimal human intervention
+- Real-time monitoring and remote control
+- Designed for low-power off-grid operation
