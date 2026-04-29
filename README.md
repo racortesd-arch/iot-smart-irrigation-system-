@@ -45,7 +45,7 @@ Real-time monitoring of soil moisture and irrigation events using Grafana dashbo
 
 ## System Schematic 🔌
 
-<img width="2806" height="1984" alt="Prototipo2" src="https://github.com/user-attachments/assets/6b86f0bb-d111-403e-b5a1-36ea25393ede" />
+<img width="1553" height="1071" alt="Prototipo2" src="https://github.com/user-attachments/assets/f23e1e25-987a-428b-b915-164821843df9" />
 
 ## Technical Challenges 🧪
 
