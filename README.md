@@ -27,7 +27,7 @@ ESP32-C3 → MQTT Broker → Backend (Python) → PostgreSQL → Grafana Dashboa
 
 Simplified system architecture and hardware design. Detailed hardware schematics available upon request.
 
-<img width="700" height="600" alt="Diagrama Riego" src="https://github.com/user-attachments/assets/b938fdcd-0543-498e-886b-fafcb8ff6733" />
+<img width="690" height="521" alt="Diagrama Riego" src="https://github.com/user-attachments/assets/686bd12c-941e-4f73-852d-a8d56038611a" />
 
 ## Hardware Setup 📸
 
