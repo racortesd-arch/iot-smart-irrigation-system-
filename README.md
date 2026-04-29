@@ -39,9 +39,12 @@ Simplified system architecture and hardware design. Detailed hardware schematics
 ## Data Visualization 📊
 
 Real-time monitoring of soil moisture and irrigation events using Grafana dashboards.
+<img width="2160" height="1048" alt="Grafanasensores" src="https://github.com/user-attachments/assets/98c9e23c-6e44-4316-bb16-73a4d18ba16e" />
+<img width="2145" height="1084" alt="grafanabomba" src="https://github.com/user-attachments/assets/97a8849a-569b-47b2-ae96-0de9cda67bcd" />
+<img width="2159" height="1028" alt="Grafaestados" src="https://github.com/user-attachments/assets/aeee92b2-2163-4b72-bf8a-33d7ce1f1e18" />
 
-<img width="600" height="600" alt="Dashboardbomba" src="https://github.com/user-attachments/assets/e7268f44-a4a2-4cbd-a78a-b532f5710108" />
-<img width="600" height="600" alt="grafanabomba" src="https://github.com/user-attachments/assets/8288af93-57f2-400a-9498-63d5b67a90c0" />
+## System Schematic 🔌
+
 <img width="2806" height="1984" alt="Prototipo2" src="https://github.com/user-attachments/assets/6b86f0bb-d111-403e-b5a1-36ea25393ede" />
 
 ## Technical Challenges 🧪
