@@ -19,10 +19,25 @@ ESP32-C3 → MQTT Broker → Backend (Python) → PostgreSQL → Grafana Dashboa
 
 - Real-time soil moisture monitoring
 - Automated irrigation control
-- Solar-powered operation
+- Solar-powered operation with battery management
+- Deep sleep optimization for ultra-low power consumption
+- Remote configuration of irrigation parameters (threshold & timing)
+- Remote device control (sleep/wake commands)
 - Data storage and historical analysis
-- Remote visualization via dashboards
-  
+- Real-time visualization via Grafana dashboards
+
+## Advanced Control & Power Optimization ⚡
+
+The system implements deep sleep strategies to significantly reduce power consumption, enabling long-term off-grid operation using solar energy.
+
+Additionally, key irrigation parameters can be remotely configured from the Grafana dashboard:
+
+- Soil moisture threshold
+- Irrigation timing
+- Device operational state (sleep / wake)
+
+This allows dynamic system tuning without physical access to the device, improving flexibility and maintainability in real-world deployments.
+
 ##  System Design 🧠
 
 Simplified system architecture and hardware design. Detailed hardware schematics available upon request.
